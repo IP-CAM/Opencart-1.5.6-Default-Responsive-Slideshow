@@ -1,5 +1,4 @@
 <h2>Opencart-Default-Responsive-Slideshow</h2>
-=====================================
 
 
 The official Opencart Default Slideshow is not responsive. That's why I name this plugin as "Opencart Default Responsive Slideshow", which means it's based on and let the OpenCart Default Slideshow to be responsive.
@@ -17,7 +16,8 @@ You can visit the live demo by click here!
 Notes: This plugin may be compatible with earlier versions of OpenCart, however I created and have only tested it on 1.5.6. If you use it on another version, and find that it works flawlessly, let me know!
 
 <h2>Features</h2>
-<ul>It's intended to be a basic responsive slideshow with following enhanced functions:
+It's intended to be a basic responsive slideshow with following enhanced functions:
+<ul>
 <li>you can set Captaion on/off for every slide picture in Banners(vQmod)</li>
 <li>you can set Description on/off for every slide picture in Banners (vQmod)</li>
 <li>(continued...)</li>
