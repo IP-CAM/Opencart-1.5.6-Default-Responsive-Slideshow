@@ -18,9 +18,10 @@ Notes: This plugin may be compatible with earlier versions of OpenCart, however 
 <h2>Features</h2>
 It's intended to be a basic responsive slideshow with following enhanced functions:
 <ul>
-<li>Responsive</li>
+<li>Being responsive</li>
 <li>Cross browser</li>
 <li>Captaion on/off for every slide picture in Banners(vQmod)</li>
 <li>Description on/off for every slide picture in Banners (vQmod)</li>
+<li>Pre-installed sample data/images</li>
 <li>(continued...)</li>
 </ul>
