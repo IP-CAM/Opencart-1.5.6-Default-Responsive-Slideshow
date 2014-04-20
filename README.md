@@ -3,7 +3,7 @@
 
 The official Opencart Default Slideshow is not responsive. That's why I name this plugin as "Opencart Default Responsive Slideshow", which means it's based on and let the OpenCart Default Slideshow to be responsive.
 
-You can visit the live demo by click here!
+You can visit the live demo by click <a target="_blank" href="http://demo.ebizdesigner.com/oc14/" style="text-style: bold"><strong>here</strong></a>!
 
 <h2>Version Information</h2>
 <ul>
